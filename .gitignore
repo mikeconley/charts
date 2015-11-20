@@ -11,4 +11,3 @@ html/es/lib/jstree/_demo
 /tests/__pycache__
 /tests/*.pyc
 /.env
-/Gemfile.lock
