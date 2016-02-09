@@ -25,8 +25,7 @@ Contribution
 
 There are three main branches
 
-  * [master](https://github.com/mozilla/charts/tree/master) - deployed to production: charts.mozilla.org
-  * [allizom](https://github.com/mozilla/charts/tree/allizom) - deployed to staging: charts.paas.allizom.org
+  * [master](https://github.com/mozilla/charts/tree/heroku) - deployed to production: charts.mozilla.org
   * [dev](https://github.com/mozilla/charts/tree/dev) - active development: **add you pull requests here**
 
 Other branches may exist which are working on new dashboards for other teams in the company.
@@ -47,4 +46,5 @@ Using Github pull requests for code submission, and Bugzilla for issue
 tracking, is clunky:  So stick to the Github if you find this is a nasty
 barrier to getting stuff done.  What's most important is you submit code!
 I will deal with the administration.
+
 
