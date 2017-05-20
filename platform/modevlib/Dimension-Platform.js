@@ -4,7 +4,7 @@
 
 importScript("Dimension.js");
 importScript("qb/ESQuery.js");
-importScript("qb/Qb.js");
+importScript("qb/qb.js");
 
 if (!Mozilla) var Mozilla = {"name": "Mozilla", "edges": []};
 
